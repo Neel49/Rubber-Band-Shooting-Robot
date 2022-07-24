@@ -17,8 +17,9 @@ Next we place rubber bands on the slots on the barrel on each of the metal piece
 
 ![barrel with bands](https://user-images.githubusercontent.com/63485598/180626947-ad45d459-f8f5-456a-8c54-5a7b7d7af24f.JPG)
 
-Now let's explain the mechanism. The way we've structutured is now we have rubber bands placed all across the barrel, with a piece of string underneath it, and when we pull the piece of string, the rubber bands should start shooting. The hard part is now done. Now the rest of the robot just provides a base to drive around on, and and additional motor to pull the string. The way the robot automatically pulls the string, is with a smaller rubber band "barrel" as shown below 
+Now let's explain the mechanism. The way we've structutured is now we have rubber bands placed all across the barrel, with a piece of string underneath it, and when we pull the piece of string, the rubber bands should start shooting. The hard part is now done. Now the rest of the robot just provides a base to drive around on, and and additional motor to pull the string. The way the robot automatically pulls the string, is with a smaller rubber band "barrel" placed below the main barrel as shown. That smaller barrel is what is connected to the motor. And all that's left to do is tie the string onto the smaller barrel. Now as the motor moves the smaller barrel, it will start pulling the string, rotating the main barrel and shooting rubber bands. Now it's important to mention again why the barrel splots are bent, this so that they are parrallel to the direction of the string when it is about to pull the rubber-band (in short it makes the motion smoother. )
 
 ![front view](https://user-images.githubusercontent.com/63485598/180626942-562e222c-6c53-4dc4-aa27-49bb871d6940.JPG)
 
+Congrats, that's it, all it takes to build a rubber-band shooting robot. 
 
